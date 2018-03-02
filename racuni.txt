@@ -1,0 +1,44 @@
+Korisnik 0
+Emir
+1234
+2500.0
+Korisnik 1
+sadas
+453
+45566.0
+Korisnik 2
+jfdjfsj
+4564
+343.0
+Korisnik 3
+Adin
+345
+3200.0
+Korisnik 4
+Dejan
+5647
+3000.0
+Korisnik 5
+Adem
+1132
+9200.0
+Korisnik 6
+Emir
+-2
+2000.0
+Korisnik 7
+qweqw
+0
+123.0
+Korisnik 8
+ewrw
+2
+2000.0
+Korisnik 9
+John
+2314
+2299.0
+Korisnik 10
+Jimmy
+8795
+1000.0
